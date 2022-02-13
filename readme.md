@@ -26,7 +26,7 @@ Install our project with npm
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/O-clock-Tardis/projet-06-notabebe)
+  git clone [https://link-to-project](https://github.com/MorganeBENUREAU/projet-oclock-notabebe)
 ```
 
 Go to the project directory
